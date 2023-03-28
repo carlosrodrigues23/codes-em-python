@@ -15,4 +15,4 @@ match op:
       print(f'a multiplicaçao eh:\n {multiplicar}')
     case 4:
       dividir = x / z
-      print(f'a divisao eh:\n {dividir}')
+      print(f'a divisao eh:\n {dividir:.2f}')

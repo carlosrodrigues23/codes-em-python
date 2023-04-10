@@ -1,5 +1,4 @@
 # programas-em-python
-
 class Retangulo:
     def _init_(self, comprimento, largura):
         self.comprimento = comprimento
